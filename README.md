@@ -1,4 +1,4 @@
-Best Golang structure for midlevel and top programmers (DDD with singleton)
+<b>Best Golang structure for midlevel and top programmers (DDD with singleton)</b>
 
 I will complete this instructions and update this structure as soon as possible, if u have some recommend pls tell me to use and share it.
 
